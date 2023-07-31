@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "sam-app",
+			"path": "../../../../../Windows/sam-app"
+		},
+		{
+			"name": "phone_otp_verification_react_firebase-main",
+			"path": ".."
+		},
+		{
+			"path": "../../hru/healthyraho"
+		}
+	],
+	"settings": {
+		"[python]": {
+			"editor.defaultFormatter": "ms-python.black-formatter"
+		},
+		"python.formatting.provider": "none"
+	}
+}
